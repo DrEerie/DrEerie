@@ -20,7 +20,7 @@
 ---
 
 ###   About Me 😜 :
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a IT (Information Technology) student.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm  IT (Information Technology) student.
 
 :man_technologist: I've worked on development on many languages to different extents. But I'm mainly intrested in penetration testing.
 
