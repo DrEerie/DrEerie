@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://t.me/DeTechnocrats_Channel">
+    <a href="https://t.me/DeTechnocrats">
       <img src="https://img.shields.io/badge/TG channel-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram channel Badge"/>
     </a>
     <a href="https://github.com/De-Technocrats">
@@ -28,7 +28,7 @@
 
 :zap: At De technocrats, we share free edu stuff. You can join us via given links.
 
-:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eerie_lucifer)
+:mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eerie_lucifer)
 
 😇 Special thanks to : <a href="https://github.com/galihap76">Galih.A.P</a> (a friend indeed!) 
  
