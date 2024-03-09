@@ -22,6 +22,8 @@
 
 :zap: At De technocrats, we share free edu stuff. You can join us via given links at the upper column.
 
+:man_teacher: I teach CS to secondary and highter secondary school
+
 :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eerie_lucifer)
  
 ---
