@@ -46,7 +46,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DrEerie&theme=dark&background=000000)](https://git.io/streak-stats)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DrEerie&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DrEerie&show_icons=true&bg_color=0000" alt="Dr. Eerie github stats" /></a> 
 
